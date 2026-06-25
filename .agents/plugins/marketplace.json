@@ -1,0 +1,21 @@
+{
+  "name": "inspireui",
+  "interface": {
+    "displayName": "InspireUI"
+  },
+  "plugins": [
+    {
+      "name": "fluxbuilder",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/inspireui/fluxbuilder_mcp_remote.git",
+        "ref": "main"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
+    }
+  ]
+}
