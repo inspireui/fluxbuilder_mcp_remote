@@ -1,0 +1,6 @@
+{
+  "fluxbuilder": {
+    "url": "https://ai.fluxbuilder.com/mcp",
+    "startup_timeout_sec": 30
+  }
+}

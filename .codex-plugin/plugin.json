@@ -1,0 +1,39 @@
+{
+  "name": "fluxbuilder",
+  "version": "0.1.0",
+  "description": "Build, edit, and ship Flutter mobile apps with FluxBuilder through the remote MCP server.",
+  "author": {
+    "name": "InspireUI",
+    "url": "https://inspireui.com"
+  },
+  "homepage": "https://fluxbuilder.com",
+  "keywords": [
+    "fluxbuilder",
+    "flutter",
+    "mobile app",
+    "app builder",
+    "ecommerce",
+    "no-code"
+  ],
+  "mcpServers": "./.mcp.json",
+  "interface": {
+    "displayName": "FluxBuilder",
+    "shortDescription": "Build and edit mobile apps with FluxBuilder.",
+    "longDescription": "FluxBuilder is a no-code builder for Flutter mobile apps. This plugin connects Codex to the remote FluxBuilder MCP server, so you can open projects, create apps, and edit screens, layouts, and settings right from Codex.",
+    "developerName": "InspireUI",
+    "category": "Productivity",
+    "capabilities": [
+      "Read",
+      "Write"
+    ],
+    "websiteURL": "https://fluxbuilder.com",
+    "brandColor": "#246DFD",
+    "composerIcon": "./assets/icon.png",
+    "logo": "./assets/logo.png",
+    "defaultPrompt": [
+      "Open my FluxBuilder projects.",
+      "Create a new FluxBuilder app.",
+      "Edit my FluxBuilder app screens."
+    ]
+  }
+}
