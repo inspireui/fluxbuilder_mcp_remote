@@ -1,7 +1,7 @@
 {
   "name": "inspireui",
   "interface": {
-    "displayName": "InspireUI"
+    "displayName": "InspireUI Agents"
   },
   "plugins": [
     {
