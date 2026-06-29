@@ -18,7 +18,7 @@
     ],
     "mcpServers": "./.mcp.json",
     "interface": {
-        "displayName": "FluxBuilder Assistant",
+        "displayName": "FluxBuilder",
         "shortDescription": "Build and edit mobile apps with FluxBuilder",
         "longDescription": "Connect Codex to the remote FluxBuilder MCP server to open projects, create apps, and edit Flutter screens, layouts, settings, and release configuration with InspireUI-aware guidance.",
         "developerName": "InspireUI",
